@@ -153,7 +153,7 @@ if __name__ == "__main__":
     username = input(">>> github-activity enter the username: ")
 
     try:
-        url = f"https://api.github.com/users/{username}/events"
+        url = f"https://api.github.com/users/{username}/events?per_page=100"
         json_file_path = f".{username}-data.json"
 
         if not time_diff(json_file_path):
