@@ -1,4 +1,4 @@
-# github-users-activity
+# github-users-activity-CLI
 This project dipslays the recent activity of a GitHub user in the terminal. This project is based on CLI, and the programming lenguage is Python.
 
 ## requirements
