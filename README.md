@@ -1,6 +1,8 @@
 # github-users-activity-CLI
 This project dipslays the recent activity of a GitHub user in the terminal. This project is based on CLI, and the programming lenguage is Python.
 
+The url this project is based on is: [roadmap backend projects - GitHub user activity CLI](https://roadmap.sh/projects/github-user-activity).
+
 ## requirements
 The application should run from the command line, accept the GitHub username as an argument, fetch the user’s recent activity using the [GitHub API](https://docs.github.com/es/rest/using-the-rest-api/github-event-types?apiVersion=2022-11-28), and display it in the terminal. The user should be able to:
 * provide the GitHub username as an argument when running the CLI. 
